@@ -1,0 +1,3 @@
+strategy,n_ticks,time_seconds,peak_memory_mb
+NaiveMovingAverageStrategy,1000,0.00224604201503098,76.671875
+WindowedMovingAverageStrategy(k=10),1000,0.0006746670114807785,60.59375
